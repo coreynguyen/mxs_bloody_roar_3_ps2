@@ -1,6 +1,6 @@
 # Bloody Roar 3
 
-![Bloody Roar 3 Logo](assets\preview.jpg) <!-- Replace with actual image URL if available -->
+![Bloody Roar 3 Logo](assets/preview.jpg) <!-- Replace with actual image URL if available -->
 
 ## Overview
 
